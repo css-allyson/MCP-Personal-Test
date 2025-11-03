@@ -1,2 +1,2 @@
 # MCP-Personal-Test
-its a test with Lagchain and Github MCP Server
+This repository is for a personal test using MCP in Lagchain v1.
